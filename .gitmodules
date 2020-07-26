@@ -1,0 +1,6 @@
+[submodule "hugo/themes/hello-friend"]
+	path = hugo/themes/hello-friend
+	url = https://github.com/panr/hugo-theme-hello-friend.git
+[submodule "hugo/public"]
+	path = hugo/public
+	url = https://dellapress@github.com/dellapress/dellapress.github.io.git
