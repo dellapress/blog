@@ -44,5 +44,6 @@ draft = false
 
 从多年前的《把时间当朋友》、《托福核心词汇》开始，我就是李笑来老师的学生，现在是他践行群成员，也是他写作课的学员。此篇纯属练习，也算是对他观点的一个补充。
 
+---
 公众号[Della在路上]
 ![della-press-qr-code](/imgs/della-press-qr-code-140x140.jpg)
