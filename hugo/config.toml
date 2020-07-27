@@ -1,4 +1,4 @@
-baseURL = "https://dellapress.github.io/"
+baseURL = "https://della.press"
 languageCode = "en-us"
 title = "Della Press"
 theme = "hello-friend"
