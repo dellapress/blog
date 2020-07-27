@@ -99,6 +99,7 @@ How to Fail at almost everything but still win big
 Scott Adams 还有其他不可思议的经历，在《How to Fail at Almost Everything and Still Win Big》这本书里有详细聊到。比如说作为漫画家，他竟然有一阵子不能拿笔，拿起来笔手来就不自觉发抖，没法画任何东西。还好他最终都克服了这些问题，过程也非常有趣。
 
 这也让我想到心理学家武志红，他曾说
+
 >你的潜意识引导你的人生”，一旦你相信了一个“事实”，你会把真实世界朝这你的“相信”方向去推动，以此来证明，你是对的。
 
 ![](imgs/dab67cba-9e10-469d-885b-c1d472781655.jpg)
