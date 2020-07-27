@@ -1,18 +1,17 @@
 +++
-title = "听写完这首rap，觉得自己有点不一样了 | It feels like it works"
+title = "听写完这首rap，觉得自己有点不一样了"
 cover = "/imgs/cover.jpg"
 categories = ["Della"]
 tags = ["Della", "Scott Adams"]
 
 author = "[Della 在路上]"
-date = "2020-07-XXT00:00:00-07:00"
+date = "2020-06-21T00:00:00-07:00"
 
 isCJKLanguage =  true
 useRelativeCover = true
 
 draft = false
 +++
-![](imgs/7c2088b5-a39f-47ea-bf80-2b2b4e200423.jpeg)
 
 ## 《It feels like it works》
 这首说唱非常有趣，作者是 Akira The Don，而歌词素材取自 Scott Adams 在直播平台上的分享。
