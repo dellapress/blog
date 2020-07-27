@@ -18,6 +18,7 @@ draft = false
 网上还没有歌词，我就每字每句听写发出来，也算是对两位创作者的支持。（可以在油管，Apple Music 和 Spotify 上找到这首歌）
 
 Scott Adams 是谁？他是漫画家，作家，时事评论人，投资人，Influencer。
+
 ![](imgs/544e27e6-5c40-4fb5-af45-d8db799c4849.jpeg)
 Scott Adams and Dilbert
 
@@ -33,6 +34,7 @@ Kristina
 
 ## 系统 > 目标
 You should accept that system works better than goals.
+
 ![](imgs/2f4eb218-125d-46e0-8ef2-8991690d2f9e.png)
 
 如果想达成某个目标，不要奔着 goal 去，而是系统性改变自己的行为习惯。为了目标，重新建立一套系统，让系统有机地帮助我们达成目标，这个方法几乎适用于任何领域。
@@ -61,6 +63,7 @@ Dilbert
 
 ## Talent Stacking
 ![](imgs/f55b7c7a-38c7-4305-929d-f52891b125cd.png)
+
 简单粗暴的理解就是成为斜杠青年。在某个领域做到top 1% 非常棒，但是却非常难。做到某个领域top 20% 甚至10%，对很多人来说适当努力一下也不难实现。在多个 (实用) 领域都做到 top 10% 就能帮你解锁很多可能性，甚至让你变得**独一无二。**
 
 比如我很喜欢的油管美妆大神Lisa Elfridge，她通过积累的人气已经成功推出了自己的彩妆线，还有关于makeup的书籍《Face Paint》 (买了还没翻完)。

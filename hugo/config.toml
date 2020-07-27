@@ -2,7 +2,7 @@ baseURL = "https://dellapress.github.io/"
 languageCode = "en-us"
 title = "Della Press"
 theme = "hello-friend"
-paginate = 5
+paginate = 8
 
 [params]
   # dir name of your blog content (default is `content/posts`).
