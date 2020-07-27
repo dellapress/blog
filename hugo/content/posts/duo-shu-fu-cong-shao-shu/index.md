@@ -2,7 +2,7 @@
 title = "多数服从少数｜Minority Rule"
 cover = "/imgs/cover.jpg"
 categories = ["其他","Della"]
-tags = ["Della", "Taleb"]
+tags = ["Della", "Nassim Taleb"]
 
 author = "[Della 在路上]"
 date = "2020-07-16T00:00:00-07:00"
@@ -74,12 +74,14 @@ Renormalization group
 少数人原则 (Minority Rule) 在满足下列三项条件下适用：
 
 1.顽固偏好的接纳对他人来说成本不高。
+
 2.少数群体需要均质地分布在不同地区，才能影响整体的选择。
+
 3.少数派的偏好不会受到强冲击。
 
 ![](imgs/81tIYEGeh4L.jpg)
 
-少数派原则是Nassim Taleb 提出的关于现实生活中“非对称性”原则之一，如果感兴趣可以去读他的 Incerto 系列，我觉得像这样的好作品值得细读，值得反复读。
+少数派原则是 Nassim Taleb 提出的关于现实生活中“非对称性”原则之一，如果感兴趣可以去读他的 Incerto 系列，我觉得像这样的好作品值得细读，值得反复读。
 
 ---
 公众号[Della在路上]
