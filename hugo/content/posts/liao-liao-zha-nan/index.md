@@ -1,7 +1,7 @@
 +++
 title = "聊聊渣男 | 为什么李笑来这次可能错了"
 cover = "/imgs/cover.png"
-categories = ["其他","Della"]
+categories = ["Della", "定投“，”践行", "其他"]
 tags = ["Della", "李笑来"]
 
 author = "[Della 在路上]"
@@ -47,3 +47,17 @@ draft = false
 ---
 公众号[Della在路上]
 ![della-press-qr-code](/imgs/della-press-qr-code-140x140.jpg)
+
+---
+欢迎打赏
+
+[BOX](https://b.watch/): `0x21A7eE2E71C61C9311CfF6b11Be6d00E4BdaAD6E`
+
+[BTC](https://bitcoin.org/): `17WAegmR9wyAvAnjnYWx41LmPQbPvZeyTi`
+
+---
+BOX 定投践行群 - 长期主义者的乐园 - 心理建设 - 逻辑思维 - 编程 - 投资践行
+
+[Mixin Messenger](https://apps.apple.com/us/app/mixin-messenger/id1322324266): 践行群ID `7000102069`
+
+邀请码 `CH5XS4Z6`
