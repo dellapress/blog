@@ -2,7 +2,7 @@
 title = "Ali Wong 教你如何甄别好吃的亚洲餐馆"
 cover = "/imgs/cover.png"
 categories = ["Della"]
-tags = ["Della", ""]
+tags = ["Della", "food", "Ali Wong"]
 
 author = "[Della 在路上]"
 date = "2020-08-17T00:00:00-07:00"
